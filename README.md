@@ -1,3 +1,6 @@
+# Note
+
+This repo is cloned from Andrej Karpathy makemore repo. The repo is intended for personal use for understanding Transformer.
 
 # nanogpt-lecture
 
